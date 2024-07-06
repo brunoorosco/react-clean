@@ -1,0 +1,11 @@
+{
+  "name": "react-clean",
+  "version": "1.0.0",
+  "description": "aplicação do curdo react do Manguinho",
+  "main": "index.js",
+  "author": "Bruno Orosco",
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^5.0.8"
+  }
+}
